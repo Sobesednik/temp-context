@@ -1,0 +1,3 @@
+const tempContext = require('./')
+
+tempContext()
